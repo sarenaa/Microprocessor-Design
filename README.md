@@ -1,5 +1,5 @@
 # Microprocessor-Design
-I designed a microprocessor using accumulator architecture to find hamming distance between 2 numbers
+I designed a microprocessor using accumulator architecture. Test function of microprocessor by find hamming distance between 2 numbers
 
 How to run cpu:  (see assembly.asm),
  no changes were made to LUT. 
